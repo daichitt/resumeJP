@@ -5,25 +5,29 @@
 |  個人事業主 <br> |  2022/05 〜 現在 | Web開発者 |
 |  株式会社MS <br> |  2020/07 〜 2022/04 | Web開発者 |
 
-
 ### 個人事業主(2022/05〜2022/07)
 職種：ソフトウェアエンジニア
 
-#### 1. Car pletform 
+#### 1. AI 社会シミュレーションツール開発
+- 期間：2023/11〜 現在
+- 担当： 機能追加
+- 開発：Python、Django、JavaScript、OPEN AI
+- OPEN-AI API を使用したOSS にサービスに機能追加
+
+#### 2. Car pletform 
 - 期間：2023/02〜2023/08
 - 担当：運用
 - 開発：Node.js、React、TypeScript、MongoDB、Docker
 - フロントエンドの代わりに Node.js を使用して新しいバックエンド非同期関数を作成することにより、ページの読み込み速度が向上しました。
-- useStateやuseEffectなどのHookの仕様を理解することでDOMレンダリングを最適化
+~~- useStateやuseEffectなどのHookの仕様を理解することでDOMレンダリングを最適化~~
 - 新しいスキーマを MongoDB に追加し、正確で一貫性のあるデータを維持することにより、メンテナンスが向上しました。
 
-
-#### 2. ECサイト
+#### 3. ECサイト
 - 期間：2022/05〜2022/07
 - 担当：運用
-- 開発：Symfony、PHP、MySQL、JavaScript、JQuery、Docker、EC-CUBE
-- Doctrine ORMでのsetters とgettersを使用したDBからデータの操作
-- 追加機能及びバグFIxでの機能改善
+- 開発：Symfony、PHP、MySQL、JavaScript、Docker、EC-CUBE
+~~- Doctrine ORMでのsetters と gettersを使用したDBからデータの操作~~
+- 追加機能及びバグFixでの機能改善
 
 
 ### 株式会社MS（2020/07 〜 2022/04）
@@ -33,7 +37,7 @@
 - 期間：2021/12〜2022/03
 - 担当：新規開発
 - 開発：Laravel、PHP、MySQL、JavaScript、JQuery、Docker、AWS CodeCommit
-- ORMを使用したModelでのデータの抽出
+~~- ORMを使用したModelでのデータの抽出~~
 - REST APIでのCRUD の設計から実装
 
 #### 2. 物件管理システム
@@ -54,7 +58,7 @@
 ## Skills 
 
 ### Backend
-Node.js, Laravel, Ruby on Rails, Python
+Node.js, Laravel, Ruby on Rails, Python, Django
 
 ### Frontend
 React, TypeScript, JavaScript

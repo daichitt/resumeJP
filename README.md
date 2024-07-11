@@ -16,7 +16,7 @@
 
 ## スキルセット
 
-- **バックエンド**: Node.js, Express.js, PHP (Laravel, Symfony)
+- **バックエンド**: Node.js, Express.js, PHP (Laravel)
 - **フロントエンド**: React, TypeScript, JavaScript
 - **データベース**: MongoDB, MySQL
 - **その他**: Docker, AWS, Python (Django)
@@ -33,8 +33,7 @@
 - OSSサービスへの機能追加
 
 ## 興味のある分野
-- Node.js, TypeScript, Reactを中心としたモダンWeb開発技術
-
+- Node.js, TypeScript, Reactを中心としたフルスタック開発
 
 
 <!--

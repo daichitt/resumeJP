@@ -53,6 +53,9 @@
 <a href="https://linkedin.com/in/daichi-ishikawa-a08a2622a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daichi-ishikawa-a08a2622a" height="30" width="40" /></a>
 </p>
 
+<p align="left">
+<a href="https://www.facebook.com/profile.php?id=100030926687822" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="daichi ishikawa" height="30" width="40" /></a>
+</p>
 
 <!--
 ## 開発者プロフィール

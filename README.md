@@ -1,10 +1,10 @@
 
 # 開発者プロフィール
 
-社会人経験を経て、現在は社会人大学生として学びながら、フルスタック開発者としても活動中。PHPからキャリアをスタートし、現在はNode.js、TypeScript、Reactを中心に据えた開発に従事。多様な経験と最新の学びを融合し、効率的で革新的なWebアプリケーション開発に取り組んでいます。
+社会人経験を経て、現在は社会人大学生として学びながら、フルスタック開発者としても活動中。PHPからキャリアをスタートし、現在はNode.js、TypeScript、Reactを中心に据えた開発をメインにWebアプリケーション開発に取り組んでいます。
+株式会社MSでバックエンドエンジニアとして2年程勤務。その後個人事業主として1.5年程勤務。
 
 - 🚀 フルスタック開発: バックエンドからフロントエンドまで一貫した開発スキル
-- 🛠 技術最適化: 実務経験を活かしたクリーンコードとパフォーマンス向上
 - 🤝 多様な経験: 社会人経験を活かしたチーム協働とプロジェクト管理
 
 ## 職務経歴
@@ -25,15 +25,32 @@
 
 ### Car Platform (2023/02 - 2023/08)
 - **技術**: Node.js, React, TypeScript, MongoDB, Docker
-- バックエンド最適化によるパフォーマンス向上
-- MongoDBスキーマ設計改善
+- Mongo DB スキーマの追加からAPI を使用した、翻訳処理の作成
+- React Hooks (useState, useEffict) での状態管理でのイベント処理作成
+- TypeScriptでの静的言語での開発
 
 ### AI社会シミュレーションツール (2023/11 - 現在)
 - **技術**: Python, Django, JavaScript, OpenAI API
-- OSSサービスへの機能追加
+- クライント先のOSSサービスを使用した社会検証のためにPython/Djangoでの
+- CSVアップロードからOpen AI のAPI を使用した、サーベイ機能作成
 
 ## 興味のある分野
 - Node.js, TypeScript, Reactを中心としたフルスタック開発
+- スタートアップでのフルスタック開発
+
+## 伸ばしたい分野
+- JavaScriptのイベントループの深い理解
+- インメモリデータ(Redis Memcached) への深い理解
+- マルチスレッド/シングルスレットへの深い理解
+- 低レイヤーへの理解
+
+## その他
+ 詳しい[職務経歴書](https://github.com/daichitt/workExperienceJP/blob/main/README.md).
+
+ <p align="left">
+<!-- <a href="https://twitter.com/71414744e2414f4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="71414744e2414f4" height="30" width="40" /></a> -->
+<a href="https://linkedin.com/in/daichi-ishikawa-a08a2622a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daichi-ishikawa-a08a2622a" height="30" width="40" /></a>
+</p>
 
 
 <!--

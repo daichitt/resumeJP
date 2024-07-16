@@ -35,7 +35,7 @@
 - CSVアップロードからOpen AI のAPI を使用した、サーベイ機能作成
 
 
-詳しい[職務経歴書](https://github.com/daichitt/workExperienceJP/blob/main/README.md).はここある
+詳しい[職務経歴書](https://github.com/daichitt/workExperienceJP).はここある
 
 ## 興味のある分野
 - Node.js, TypeScript, Reactを中心としたフルスタック開発

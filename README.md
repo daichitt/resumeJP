@@ -34,6 +34,9 @@
 - クライント先のOSSサービスを使用した社会検証のためにPython/Djangoでの
 - CSVアップロードからOpen AI のAPI を使用した、サーベイ機能作成
 
+
+詳しい[職務経歴書](https://github.com/daichitt/workExperienceJP/blob/main/README.md).はここある
+
 ## 興味のある分野
 - Node.js, TypeScript, Reactを中心としたフルスタック開発
 - スタートアップでのフルスタック開発
@@ -45,8 +48,6 @@
 - 低レイヤーへの理解
 
 ## その他
- 詳しい[職務経歴書](https://github.com/daichitt/workExperienceJP/blob/main/README.md).
-
  <p align="left">
 <!-- <a href="https://twitter.com/71414744e2414f4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="71414744e2414f4" height="30" width="40" /></a> -->
 <a href="https://linkedin.com/in/daichi-ishikawa-a08a2622a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daichi-ishikawa-a08a2622a" height="30" width="40" /></a>

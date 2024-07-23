@@ -46,6 +46,8 @@
 - インメモリデータ(Redis Memcached) への深い理解
 - マルチスレッド/シングルスレットへの深い理解
 - 低レイヤーへの理解
+- CI / CD：GitHub Actions の構築
+- Kubernetes (k8s) の構築
 
 ## その他
  <p align="left">

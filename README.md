@@ -1,8 +1,7 @@
 
 # 開発者プロフィール
 
-社会人経験を経て、現在は社会人大学生として学びながら、フルスタック開発者としても活動中。PHPからキャリアをスタートし、現在はNode.js、TypeScript、Reactを中心に据えた開発をメインにWebアプリケーション開発に取り組んでいます。
-株式会社MSでバックエンドエンジニアとして2年程勤務。その後個人事業主として2年程勤務。
+社会人経験を経て、現在は社会人大学生として大学にてコンピューターサイエンスを専攻、フルスタック開発者としても活動中。現在はNode.js、TypeScript、Reactを中心に据えた開発をメインにWebアプリケーション開発に取り組んでいます。
 
 - 🚀 フルスタック開発: バックエンドからフロントエンドまで一貫した開発スキル
 - 🤝 多様な経験: 社会人経験を活かしたチーム協働とプロジェクト管理
@@ -16,23 +15,11 @@
 
 ## スキルセット
 
-- **バックエンド**: Node.js, Express.js, Python (Django),PHP (Laravel), Rails
+- **バックエンド**: Node.js, Express.js, Python,PHP (Laravel), Rails
 - **フロントエンド**: React, TypeScript, JavaScript
-- **データベース**: MongoDB, MySQL
-- **その他**: Docker, AWS, 
-
-## 主要プロジェクト
-
-### Car Platform (2023/02 - 2023/08)
-- **技術**: Node.js, React, TypeScript, MongoDB, Docker
-- Mongo DB スキーマの追加からAPI を使用した、翻訳処理の作成
-- React Hooks (useState, useEffict) での状態管理でのイベント処理作成
-- TypeScriptでの静的言語での開発
-
-### AI社会シミュレーションツール (2023/11 - 現在)
-- **技術**: Python, Django, JavaScript, OpenAI API
-- クライント先のOSSサービスを使用した社会検証のためにPython/Djangoでの
-- CSVアップロードからOpen AI のAPI を使用した、サーベイ機能作成
+- **データベース**: MongoDB, MySQL, DynamoDB
+- **CI/CD**: Github Action
+- **その他**: Docker, AWS, Azure
 
 
 詳しい[職務経歴書](https://github.com/daichitt/workExperienceJP).はここある
